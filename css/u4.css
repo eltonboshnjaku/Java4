@@ -1,0 +1,23 @@
+
+.header
+{
+    display: flex;
+    flex-direction: column;
+    
+    justify-content: space-evenly;
+}
+.shade
+{
+    background: blue;
+    opacity: 1px;
+}
+.header-content
+{
+    display: flex;
+    position: relative;
+}
+.header-photo
+{
+    width: 800px;
+    height: 400px;
+}
