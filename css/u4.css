@@ -136,3 +136,19 @@
 {
     display: flex;
 }
+
+.footer
+{
+    display: flex;
+    background: blue;
+    width: 900px;
+    height: 400px;
+    margin-left: 15%;
+}
+.contactUs
+{
+    
+    margin-top: 10%;
+    margin-left: 12%;
+    position: absolute;
+}
